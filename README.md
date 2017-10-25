@@ -30,3 +30,9 @@ $ ./ricohdec ./rg1_v001up.bin
 filelen=5826560 dircount=1
 flen=5824084 filename=b01firm8.bin mode=encrypted
 ```
+____________________________________________________________________
+Useful resources: 
+
+https://github.com/jokob/theta
+https://github.com/trolldbois/theta/blob/master/ThetaS-firmware-opening.ipynb
+
