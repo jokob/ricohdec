@@ -34,5 +34,6 @@ ____________________________________________________________________
 Useful resources: 
 
 https://github.com/jokob/theta
+
 https://github.com/trolldbois/theta/blob/master/ThetaS-firmware-opening.ipynb
 
